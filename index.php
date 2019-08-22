@@ -37,7 +37,7 @@ require 'header.php'; ?>
             <table class="table table-striped table-hover">
             <thead>
               <tr>
-                <th>ID</th>
+                <th>Mahesh Tandan</th>
                 <th>First Name</th>
                 <th>Lasat Name</th>
                 <th>Age</th>
