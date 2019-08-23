@@ -79,5 +79,4 @@ require 'header.php'; ?>
       </div>
     </div>     
    </div>
-<h3>git stash is working</h3>
 <?php require 'footer.php'; ?>
